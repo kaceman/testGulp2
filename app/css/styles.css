@@ -37,3 +37,6 @@ ul li:nth-child(5) {
 
 ul li:last-child {
   background: royalblue; }
+
+.content {
+  background-color: blue; }
